@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_FreeCRM</name>
+   <tag>Universal_TestCase</tag>
+   <comment></comment>
+   <testCaseGuid>204af8bc-a68a-4169-8bc3-393163233e7f</testCaseGuid>
+   <variable>
+      <defaultValue>'Jotirmoy.Biswas05@gmail.com'</defaultValue>
+      <description></description>
+      <id>8b030a02-a564-4f72-86a0-3a8927228bbb</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Joty@3299'</defaultValue>
+      <description></description>
+      <id>dd04fe17-2d2d-46c0-acbb-e92a39977167</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

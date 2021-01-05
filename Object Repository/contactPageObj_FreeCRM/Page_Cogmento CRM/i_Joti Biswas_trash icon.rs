@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Joti Biswas_trash icon</name>
+   <tag></tag>
+   <elementGuidId>371c0dc3-81e4-4449-8b29-fcad0890e2c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div/div[2]/div/table/tbody/tr/td[9]/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ui.icon.inverted.button > i.trash.icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>trash icon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;ui fluid container&quot;]/div[@class=&quot;ui fluid container main-content&quot;]/div[@class=&quot;table-wrapper&quot;]/table[@class=&quot;ui celled sortable striped table custom-grid&quot;]/tbody[1]/tr[@class=&quot;active&quot;]/td[@class=&quot;right aligned collapsing options-buttons-container&quot;]/div[@class=&quot;contents&quot;]/button[@class=&quot;ui icon inverted button&quot;]/i[@class=&quot;trash icon&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div/div[2]/div/table/tbody/tr/td[9]/div/button/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/div/button/i</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_FreeCRM_prm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b45284aa-e461-43ff-8935-fcf464d198f3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2cc84f44-c8f2-471b-9046-c0a5a1a9db71</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>700edf44-d649-4147-94e6-1d13c3d8799d</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
